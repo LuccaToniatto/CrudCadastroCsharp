@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDSQL2022", "CRUDSQL2022\CRUDSQL2022.csproj", "{A0BA8060-4556-42A9-9A8B-E55C4D24609B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BA8060-4556-42A9-9A8B-E55C4D24609B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BA8060-4556-42A9-9A8B-E55C4D24609B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BA8060-4556-42A9-9A8B-E55C4D24609B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BA8060-4556-42A9-9A8B-E55C4D24609B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD1AC82-B1CD-481D-93B7-743CD2D9B455}
+	EndGlobalSection
+EndGlobal
